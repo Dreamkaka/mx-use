@@ -4,7 +4,7 @@
   /* 指定位置 */
   right: 10px;
   bottom: 10px;
-  z-index: 1919810;
+  z-index: auto;
 }
 [data-theme="light"] #fps {
   background-color: rgba(255, 255, 255, 0.85);
